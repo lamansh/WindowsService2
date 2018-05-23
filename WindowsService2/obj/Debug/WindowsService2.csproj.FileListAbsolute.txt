@@ -1,0 +1,8 @@
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.cache
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.CoreCompileInputs.cache
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb

@@ -1,0 +1,57 @@
+﻿Выполняется установка сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Выполняется фиксация сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется откат для сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется установка сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\La.sharov\source\repos\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
